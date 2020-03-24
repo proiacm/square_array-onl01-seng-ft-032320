@@ -1,5 +1,5 @@
 def square_array(array)
- array.each |num| 
+ array.each do |num| 
     puts "num"**  
 
 end
