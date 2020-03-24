@@ -4,6 +4,6 @@ def square_array(array)
  end
  
  def new_array(yarra)
-   new_array<<[num]
+   yarra<<[num]
   end
 end
